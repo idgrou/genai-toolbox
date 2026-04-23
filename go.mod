@@ -1,6 +1,6 @@
 module github.com/googleapis/genai-toolbox
 
-go 1.24.7
+go 1.25.0
 
 toolchain go1.25.5
 
@@ -36,7 +36,7 @@ require (
 	github.com/godror/godror v0.49.6
 	github.com/google/go-cmp v0.7.0
 	github.com/google/uuid v1.6.0
-	github.com/jackc/pgx/v5 v5.7.6
+	github.com/jackc/pgx/v5 v5.9.2
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/looker-open-source/sdk-codegen/go v0.25.22
 	github.com/microsoft/go-mssqldb v1.9.3
